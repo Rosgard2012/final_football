@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pvykhrov/Git/FIFO/FIFO/FIFO.csproj",
+      "projectUniqueName": "/Users/pvykhrov/Git/Git/final_football/FIFO/FIFO/FIFO.csproj",
       "projectName": "FIFO",
-      "projectPath": "/Users/pvykhrov/Git/FIFO/FIFO/FIFO.csproj",
+      "projectPath": "/Users/pvykhrov/Git/Git/final_football/FIFO/FIFO/FIFO.csproj",
       "packagesPath": "/Users/pvykhrov/.nuget/packages/",
-      "outputPath": "/Users/pvykhrov/Git/FIFO/FIFO/obj/",
+      "outputPath": "/Users/pvykhrov/Git/Git/final_football/FIFO/FIFO/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/pvykhrov/.nuget/NuGet/NuGet.Config"
