@@ -1,0 +1,15 @@
+/Users/pvykhrov/Git/FIFO/FIFO/bin/Debug/net7.0/FIFO
+/Users/pvykhrov/Git/FIFO/FIFO/bin/Debug/net7.0/FIFO.deps.json
+/Users/pvykhrov/Git/FIFO/FIFO/bin/Debug/net7.0/FIFO.runtimeconfig.json
+/Users/pvykhrov/Git/FIFO/FIFO/bin/Debug/net7.0/FIFO.dll
+/Users/pvykhrov/Git/FIFO/FIFO/bin/Debug/net7.0/FIFO.pdb
+/Users/pvykhrov/Git/FIFO/FIFO/obj/Debug/net7.0/FIFO.csproj.AssemblyReference.cache
+/Users/pvykhrov/Git/FIFO/FIFO/obj/Debug/net7.0/FIFO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pvykhrov/Git/FIFO/FIFO/obj/Debug/net7.0/FIFO.AssemblyInfoInputs.cache
+/Users/pvykhrov/Git/FIFO/FIFO/obj/Debug/net7.0/FIFO.AssemblyInfo.cs
+/Users/pvykhrov/Git/FIFO/FIFO/obj/Debug/net7.0/FIFO.csproj.CoreCompileInputs.cache
+/Users/pvykhrov/Git/FIFO/FIFO/obj/Debug/net7.0/FIFO.dll
+/Users/pvykhrov/Git/FIFO/FIFO/obj/Debug/net7.0/refint/FIFO.dll
+/Users/pvykhrov/Git/FIFO/FIFO/obj/Debug/net7.0/FIFO.pdb
+/Users/pvykhrov/Git/FIFO/FIFO/obj/Debug/net7.0/FIFO.genruntimeconfig.cache
+/Users/pvykhrov/Git/FIFO/FIFO/obj/Debug/net7.0/ref/FIFO.dll
